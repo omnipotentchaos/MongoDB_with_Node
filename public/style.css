@@ -1,0 +1,8 @@
+.chat{
+    background-color: aliceblue;
+}
+.msg{
+    background-color: royalblue;
+    color: white;
+    display: inline-block;
+}
